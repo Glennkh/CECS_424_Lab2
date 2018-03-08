@@ -1,0 +1,24 @@
+Glenns-MacBook-Pro:CECS_424_Lab2 glennhewey$ gcc heap.c && ./a.out
+        Test 1
+a: 0x7fb0bec02900
+b: 0x7fb0bec02900
+Glenns-MacBook-Pro:CECS_424_Lab2 glennhewey$ gcc heap.c && ./a.out
+        Test 2
+a: 0x7f83eec02900
+b: 0x7f83eec02918
+Glenns-MacBook-Pro:CECS_424_Lab2 glennhewey$ gcc heap.c && ./a.out
+        Test 3
+a: 0x7f9279c02900
+b: 0x7f9279c02918
+c: 0x7f9279c02930
+d: 0x7f9279c02918
+e: 0x7f9279c02948
+Glenns-MacBook-Pro:CECS_424_Lab2 glennhewey$ gcc heap.c && ./a.out
+        Test 4
+a: 0x7fb59e402900
+b: 0x7fb59e402918
+Glenns-MacBook-Pro:CECS_424_Lab2 glennhewey$ gcc heap.c && ./a.out
+        Test 5
+a: 0x7fbb93402900
+b: 0x7fbb93402aa0
+b: 0x7fbb93402aa0
